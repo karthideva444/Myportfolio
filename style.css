@@ -150,7 +150,7 @@ a:hover {
 
 section {
   padding-top: 4vh;
-  height: 96vh;
+  height: 10%;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -186,7 +186,7 @@ section {
 }
 
 .section__text p {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .section__text__p1 {
@@ -201,6 +201,8 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 #socials-container {
@@ -263,6 +265,7 @@ section {
 
 .btn-container {
   gap: 1rem;
+
 }
 
 /* ABOUT SECTION */
